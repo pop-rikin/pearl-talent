@@ -1,0 +1,28 @@
+---
+description: "Automatic prompt tracking and documentation"
+globs: ["prompts.md"]
+alwaysApply: false
+---
+
+# Prompt Tracking Rule
+
+## Automatic Prompt Documentation
+**Every prompt written by the user must be saved to prompts.md**
+
+### Requirements:
+- When a user creates or writes a prompt, automatically add it to the prompts.md file
+- Include the date, purpose, and full prompt content
+- Organize prompts by category or date for easy reference
+- Maintain a comprehensive record of all prompts created during the project
+
+### Format:
+```markdown
+## [Date] - [Purpose/Title]
+**Category:** [e.g., Content Creation, SEO, Marketing]
+**Context:** [Brief description of use case]
+
+### Prompt:
+[Full prompt content here]
+
+---
+```
