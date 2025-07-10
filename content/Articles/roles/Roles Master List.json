@@ -1,0 +1,2482 @@
+[
+    {
+        "Page Type": "Role",
+        "Role": "Virtual Assistants",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Virtual Assistant",
+        "MSV": "27,100",
+        "Keyword 2": "Hire Virtual Assistant",
+        "MSV_2": "1600",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Personal Assistants",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire Personal Assistant",
+        "MSV": "590",
+        "Keyword 2": "Hire a Personal Assistant",
+        "MSV_2": "880",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Call Centers",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire a Call Center",
+        "MSV": "500",
+        "Keyword 2": "Hire a Virtual Call Center",
+        "MSV_2": "30",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Excel Experts",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire Excel Expert",
+        "MSV": "170",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Executive Assistants",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire Executive Assistant",
+        "MSV": "170",
+        "Keyword 2": "Executive Assistant Staffing Agency",
+        "MSV_2": "260",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Administrative Assistants",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire Administrative Assistant",
+        "MSV": "140",
+        "Keyword 2": "Administrative Assistant Staffing Agency",
+        "MSV_2": "210",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Technical Virtual Assistants",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Technical Virtual Assistant",
+        "MSV": "110",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Recruiters",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire Recruiter",
+        "MSV": "90",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Filipino Virtual Assistants",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire Filipino Virtual Assistant",
+        "MSV": "50",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Business Analysts",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire Business Analyst",
+        "MSV": "40",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Chiefs of Staff",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire Chief of Staff",
+        "MSV": "20",
+        "Keyword 2": "Chief of Staff Staffing Agency",
+        "MSV_2": "20",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Event Coordinators",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire Event Coordinator",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "HR Generalists",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire HR Generalist",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Operations Manager",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire Operations Manager",
+        "MSV": "20",
+        "Keyword 2": "Hire Operations Specialist",
+        "MSV_2": "10",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Operators",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire Operator",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Operations Analysts",
+        "Parent Category": "Customer Support, Ops, & VAs",
+        "Keyword": "Hire Operations Analyst",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Video Editors",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Video Editor",
+        "MSV": "590",
+        "Keyword 2": "Video Editor for Hire",
+        "MSV_2": "590",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Animators",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Animators",
+        "MSV": "260",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Graphic Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Graphic Designers",
+        "MSV": "260",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Logo Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Logo Designers",
+        "MSV": "260",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Web Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Web Designers",
+        "MSV": "210",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "UX Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire UX Designers",
+        "MSV": "170",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Photoshop Experts",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Photoshop Experts",
+        "MSV": "110",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "UI Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire UI Designers",
+        "MSV": "70",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "3D Animators",
+        "Parent Category": "Designers",
+        "Keyword": "Hire 3D Animators",
+        "MSV": "50",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Presentation Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Presentation Designers",
+        "MSV": "50",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Fintech Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Fintech Designers",
+        "MSV": "40",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "E-commerce Website Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire E-commerce Website Designers",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Responsive Web Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Responsive Web Designers",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "B2B Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire B2B Designers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "CAD Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire CAD Designers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Data Visualization Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Data Visualization Designers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Framer.js Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Framer.js Designers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Illustrators",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Illustrators",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Infographic Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Infographic Designers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Mobile UX Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Mobile UX Designers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Music Website Design Experts",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Music Website Design Experts",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Shopify Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Shopify Designers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Startup Design Experts",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Startup Design Experts",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Tableau Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Tableau Designers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "VR Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire VR Designers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Webflow Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Webflow Designers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Accessible Web Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Accessible Web Designers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Adobe After Effects Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Adobe After Effects Designers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Canva Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Canva Designers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Creative Directors",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Creative Directors",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Landing Page Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Landing Page Designers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Mobile App Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Mobile App Designers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Mobile UI Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Mobile UI Designers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Product Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Product Designers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Prototype Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Prototype Designers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Storyboard Artists",
+        "Parent Category": "Designers",
+        "Keyword": "Hire Storyboard Artists",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "SVG Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire SVG Designers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "WooCommerce Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire WooCommerce Designers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "WordPress Website Designers",
+        "Parent Category": "Designers",
+        "Keyword": "Hire WordPress Website Designers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Mobile App Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Mobile App Developers",
+        "MSV": "6600",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "React Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire React Developers",
+        "MSV": "720",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Android Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Android Developers",
+        "MSV": "1600",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Software Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Software Developers",
+        "MSV": "2400",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Web Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Web Developers",
+        "MSV": "2400",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Flutter Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Flutter Developers",
+        "MSV": "590",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Java Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Java Developers",
+        "MSV": "590",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Laravel Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Laravel Developers",
+        "MSV": "590",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "PHP Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire PHP Developers",
+        "MSV": "590",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Python Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Python Developers",
+        "MSV": "590",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "React Native Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire React Native Developers",
+        "MSV": "590",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Cluster content",
+        "Role": "Remote Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Remote Developers",
+        "MSV": "590",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "WordPress Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire WordPress Developers",
+        "MSV": "1000",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Shopify Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Shopify Developers",
+        "MSV": "1300",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "AI Engineers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire AI Engineers",
+        "MSV": "1600",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Angular Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Angular Developers",
+        "MSV": "390",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Parent Page",
+        "Role": "Developer",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Developer",
+        "MSV": "22200",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": ".NET Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire .NET Developers",
+        "MSV": "320",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Blockchain Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Blockchain Developers",
+        "MSV": "320",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Coders",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Coders",
+        "MSV": "5400",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Full Stack Developer",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Full Stack Developer",
+        "MSV": "320",
+        "Keyword 2": "Full Stack Engineer",
+        "MSV_2": "10",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "JavaScript Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire JavaScript Developers",
+        "MSV": "260",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Magento Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Magento Developers",
+        "MSV": "260",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Offshore Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Offshore Developers",
+        "MSV": "260",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Salesforce Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Salesforce Developers",
+        "MSV": "260",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Ruby on Rails Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Ruby on Rails Developers",
+        "MSV": "210",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Software Engineer",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Software Engineer",
+        "MSV": "210",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Vue.js Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Vue.js Developers",
+        "MSV": "210",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "AWS Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire AWS Developers",
+        "MSV": "170",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "DevOps Engineers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire DevOps Engineers",
+        "MSV": "170",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "WooCommerce Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire WooCommerce Developers",
+        "MSV": "170",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Azure Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Azure Developers",
+        "MSV": "140",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "BigCommerce Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire BigCommerce Developers",
+        "MSV": "140",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Swift Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Swift Developers",
+        "MSV": "140",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Unity Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Unity Developers",
+        "MSV": "110",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "HTML5 Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire HTML5 Developers",
+        "MSV": "90",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Data Analyst",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Data Analyst",
+        "MSV": "90",
+        "Keyword 2": "Data Entry Analyst",
+        "MSV_2": "0",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Power BI Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Power BI Developers",
+        "MSV": "90",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "SharePoint Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire SharePoint Developers",
+        "MSV": "90",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Automation Engineer",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Automation Engineer",
+        "MSV": "70",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "C# Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire C# Developers",
+        "MSV": "70",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Kubernetes Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Kubernetes Developers",
+        "MSV": "70",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Next.js Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Next.js Developers",
+        "MSV": "70",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Odoo Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Odoo Developers",
+        "MSV": "70",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Database Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Database Developers",
+        "MSV": "50",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Joomla Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Joomla Developers",
+        "MSV": "50",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Svelte Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Svelte Developers",
+        "MSV": "40",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Embedded Software Engineers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Embedded Software Engineers",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Ethical Hackers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Ethical Hackers",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Squarespace Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Squarespace Developers",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Back-end Developer",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Back-end Developer",
+        "MSV": "2400",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Expedia Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Expedia Developers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Front-end Developer",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Front-end Developer",
+        "MSV": "5400",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "iBeacon Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire iBeacon Developers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Prototype Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Prototype Developers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Twilio Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Twilio Developers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Video Game Testers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Video Game Testers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "QA Automation Engineer",
+        "Parent Category": "Developer",
+        "Keyword": "Hire QA Automation Engineer",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Startup Developers",
+        "Parent Category": "Developer",
+        "Keyword": "Hire Startup Developers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Bookkeepers",
+        "Parent Category": "Finance",
+        "Keyword": "Hire Bookkeeper",
+        "MSV": "320",
+        "Keyword 2": "Bookkeeper Staffing",
+        "MSV_2": "20",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Accountants",
+        "Parent Category": "Finance",
+        "Keyword": "Hire Accountant",
+        "MSV": "260",
+        "Keyword 2": "Virtual Accountant",
+        "MSV_2": "2,400",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "QuickBooks Experts",
+        "Parent Category": "Finance",
+        "Keyword": "Hire QuickBooks Expert",
+        "MSV": "50",
+        "Keyword 2": "QuickBooks Expert",
+        "MSV_2": "210",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Financial Analysts",
+        "Parent Category": "Finance",
+        "Keyword": "Hire Financial Analyst",
+        "MSV": "40",
+        "Keyword 2": "Hire Financial Analysts",
+        "MSV_2": "30",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Controllers",
+        "Parent Category": "Finance",
+        "Keyword": "Hire Controller",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Tax Accountants",
+        "Parent Category": "Finance",
+        "Keyword": "Hire Tax Accountant",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Accounts Payable Specialists",
+        "Parent Category": "Finance",
+        "Keyword": "Hire Accounts Payable Specialist",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Finance Managers",
+        "Parent Category": "Finance",
+        "Keyword": "Hire Finance Manager",
+        "MSV": "10",
+        "Keyword 2": "Finance Associates",
+        "MSV_2": "0",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Payroll Specialists",
+        "Parent Category": "Finance",
+        "Keyword": "Hire Payroll Specialist",
+        "MSV": "10",
+        "Keyword 2": "Payroll Associates",
+        "MSV_2": "0",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Virtual Medical Assistants",
+        "Parent Category": "Healthcare",
+        "Keyword": "Virtual Medical Assistant",
+        "MSV": "880",
+        "Keyword 2": "Medical Virtual Assistant",
+        "MSV_2": "220",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Virtual Medical Receptionists",
+        "Parent Category": "Healthcare",
+        "Keyword": "Virtual Medical Receptionist",
+        "MSV": "480",
+        "Keyword 2": "Medical Virtual Receptionist",
+        "MSV_2": "320",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Medical Assistants",
+        "Parent Category": "Healthcare",
+        "Keyword": "Hire Medical Assistant",
+        "MSV": "10",
+        "Keyword 2": "Medical Assistant Staffing",
+        "MSV_2": "880",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Paralegals",
+        "Parent Category": "Legal",
+        "Keyword": "Hire Paralegal",
+        "MSV": "70",
+        "Keyword 2": "Paralegal Staffing Agency",
+        "MSV_2": "210",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Legal Assistants",
+        "Parent Category": "Legal",
+        "Keyword": "Hire Legal Assistant",
+        "MSV": "30",
+        "Keyword 2": "Legal Assistant Staffing Agency",
+        "MSV_2": "50",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Case Managers",
+        "Parent Category": "Legal",
+        "Keyword": "Hire Case Manager",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "SEO Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire SEO Expert",
+        "MSV": "720",
+        "Keyword 2": "Hire SEO Experts",
+        "MSV_2": "260",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Social Media Manager",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Social Media Manager",
+        "MSV": "720",
+        "Keyword 2": "Hire Social Media Managers",
+        "MSV_2": "10",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Content Writers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Content Writer",
+        "MSV": "210",
+        "Keyword 2": "Hire Content Writers",
+        "MSV_2": "110",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Video Editors",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Video Editors",
+        "MSV": "210",
+        "Keyword 2": "Hire Video Editor",
+        "MSV_2": "590",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Copywriters",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Copywriters",
+        "MSV": "140",
+        "Keyword 2": "Hire Copywriter",
+        "MSV_2": "260",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Blog Writers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Blog Writers",
+        "MSV": "70",
+        "Keyword 2": "Hire Blog Writer",
+        "MSV_2": "10",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Technical SEO Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Technical SEO Experts",
+        "MSV": "70",
+        "Keyword 2": "Hire Technical SEO",
+        "MSV_2": "40",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Affiliate Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Affiliate Marketers",
+        "MSV": "50",
+        "Keyword 2": "Hire Affiliate Marketer",
+        "MSV_2": "10",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Facebook Ads Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Facebook Ads Experts",
+        "MSV": "40",
+        "Keyword 2": "Hire Facebook Ads Experts",
+        "MSV_2": "40",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Marketing Managers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Marketing Manager",
+        "MSV": "40",
+        "Keyword 2": "-",
+        "MSV_2": "-",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Public Relations Specialists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Public Relations Specialists",
+        "MSV": "40",
+        "Keyword 2": "Public Relations Specialists",
+        "MSV_2": "2,900",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "SEO Copywriters",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire SEO Copywriters",
+        "MSV": "40",
+        "Keyword 2": "Hire SEO Copywriter",
+        "MSV_2": "90",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Campaign Managers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Campaign Managers",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Content Managers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Content Manager",
+        "MSV": "30",
+        "Keyword 2": "Hire Content Managers",
+        "MSV_2": "10",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Google Shopping Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Google Shopping Experts",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Marketo Consultants",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Marketo Consultants",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "On-page SEO Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire On-page SEO Experts",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "PPC Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire PPC Experts",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Snapchat Marketing Consultants",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Snapchat Marketing Consultants",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Content Strategists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Content Strategists",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Copy Editors",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Copy Editors",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Customer Journey Mapping Consultants",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Customer Journey Mapping Consultants",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Digital Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Digital Marketers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Digital Strategists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Digital Strategists",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Ebook Writers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Ebook Writers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Event Planners",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Event Planners",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Go-to-market Consultants",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Go-to-market Consultants",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Google Ads Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Google Ads Experts",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Growth Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Growth Marketers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Inbound Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Inbound Marketers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Influencer Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Influencer Marketers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Lead Generation Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Lead Generation Experts",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Marketing Communications Specialists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Marketing Communications Specialists",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Media Buyers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Media Buyer",
+        "MSV": "20",
+        "Keyword 2": "Hire Media Buying Consultants",
+        "MSV_2": "10",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Off-page SEO Specialists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Off-page SEO Specialists",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Pinterest Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Pinterest Marketers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Podcast Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Podcast Marketers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Press Release Writers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Press Release Writers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Product Launch Strategists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Product Launch Strategists",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Product Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Product Marketers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Rebranding Consultants",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Rebranding Consultants",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Sales Funnel Strategists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Sales Funnel Strategists",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "TikTok Ads Managers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire TikTok Ads Managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "TikTok Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire TikTok Marketers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "YouTube Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire YouTube Marketers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "ABM Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire ABM Marketers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Amazon SEO Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Amazon SEO Experts",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "B2B Marketing Strategists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire B2B Marketing Strategists",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Brand Strategists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Brand Strategists",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Community Managers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Community Managers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Competitor Analysis Consultants",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Competitor Analysis Consultants",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Conversion Rate Optimization Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Conversion Rate Optimization Experts",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Customer Acquisition Specialists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Customer Acquisition Specialists",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Customer Success Managers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Customer Success Managers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Demand Generation Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Demand Generation Marketers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Direct Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Direct Marketers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Display Ads Specialists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Display Ads Specialists",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "E-commerce Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire E-commerce Marketers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Email Marketing Specialists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Email Marketing Specialists",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Event Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Event Marketers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Google Search Console Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Google Search Console Experts",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Growth Hackers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Growth Hackers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Integrated Marketing Strategists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Integrated Marketing Strategists",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Lead Nurturing Specialists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Lead Nurturing Specialists",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Link Builders",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Link Builders",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Local SEO Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Local SEO Experts",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Mailchimp Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Mailchimp Experts",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Marketing Automation Specialists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Marketing Automation Specialists",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Marketing Strategists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Marketing Strategists",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Mobile App Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Mobile App Marketers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Omnichannel Marketers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Omnichannel Marketers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "SEM Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire SEM Experts",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "SEO Audit Specialists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire SEO Audit Specialists",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Shopify SEO Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Shopify SEO Experts",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Social Media Managers",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Social Media Managers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Survey Consultants",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Survey Consultants",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Trade Marketing Specialists",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Trade Marketing Specialists",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Wordpress SEO Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire Wordpress SEO Experts",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "YouTube SEO Experts",
+        "Parent Category": "Marketers",
+        "Keyword": "Hire YouTube SEO Experts",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "E-Commerce Product Managers",
+        "Parent Category": "Product Managers",
+        "Keyword": "E-commerce product manager",
+        "MSV": "40",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Product Development Consultants",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire Product development consultants",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "API Product Managers",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire API product managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "App Product Managers",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire App product managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Blockchain Product Managers",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire Blockchain product managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Cloud Product Managers",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire Cloud product managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Digital Product Managers",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire Digital product managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Directors of Product",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire Directors of product",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "IoT Product Managers",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire IoT product managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Kanban Product Owners",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire Kanban product owners",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Lean Product Managers",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire Lean product managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Product Coaches",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire Product coaches",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "SaaS Product Managers",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire SaaS product managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Digital Marketing Product Managers",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire Digital marketing product managers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Parent Page",
+        "Role": "Product Managers",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire Product Manager",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Product Owners",
+        "Parent Category": "Product Managers",
+        "Keyword": "Hire Product owners",
+        "MSV": "10",
+        "Keyword 2": "Product Leaders",
+        "MSV_2": "0",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Parent Page",
+        "Role": "Project Manager",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Project Manager",
+        "MSV": "140",
+        "Keyword 2": "Project Manager Staffing Agency",
+        "MSV_2": "140",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Waterfall Project Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Waterfall Project Managers",
+        "MSV": "50",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Scrum Project Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Scrum Project Managers",
+        "MSV": "40",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Web Project Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Web Project Managers",
+        "MSV": "40",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Kanban Project Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Kanban Project Managers",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Scrum Masters",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Scrum Masters",
+        "MSV": "30",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Agile Coaches",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Agile Coaches",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Agile Team Leads",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Agile Team Leads",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Business Delivery Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Business Delivery Managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Delivery Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Delivery Managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Digital Project Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Digital Project Managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "ITIL Certified Service Delivery Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire ITIL Certified Service Delivery Managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Jira Experts",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Jira Experts",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Manufacturing Project Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Manufacturing Project Managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Mobile Project Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Mobile Project Managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Process Design Consultants",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Process Design Consultants",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "SAFe Project Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire SAFe Project Managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Scrum Coaches",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Scrum Coaches",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Startup Project Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Startup Project Managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Virtual Project Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Virtual Project Managers",
+        "MSV": "20",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Agile Consultants",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Agile Consultants",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Blockchain Project Managers",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Blockchain Project Managers",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Project Management Consultants",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Project Management Consultants",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    },
+    {
+        "Page Type": "Role",
+        "Role": "Solutions Architects",
+        "Parent Category": "Project Managers",
+        "Keyword": "Hire Solutions Architects",
+        "MSV": "10",
+        "Keyword 2": "",
+        "MSV_2": "",
+        "Pearl Approved?": ""
+    }
+] 
