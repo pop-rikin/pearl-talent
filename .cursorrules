@@ -1,0 +1,54 @@
+# Pearl Talent Cursor Rules
+
+## CRITICAL: NO FICTIONAL CONTENT ALLOWED
+
+### Content Creation Guidelines
+- **NEVER create fictional case studies, testimonials, client names, or metrics**
+- **ONLY use verified information from the Pearl Talent Knowledge Base**
+- **ALL claims must be factual and verifiable**
+
+### Content Sources - USE ONLY THESE:
+1. `Knowledge Base/` directory content
+2. `content/Articles/roles/` existing verified content
+3. User-provided data and specifications
+4. Publicly available, factual industry information
+
+### FORBIDDEN Content Types:
+- Fictional client names or companies
+- Made-up case studies or success stories
+- Fabricated testimonials or quotes
+- Invented metrics or statistics
+- Placeholder company examples (e.g., "TechFlow Solutions", "DataViz Pro")
+
+### Required Content Practices:
+- Use placeholders like "[Client Success Story - TBD]" for missing case studies
+- Mark unverified content with "[Requires Verification]"
+- Reference specific Knowledge Base files when using content
+- Use aggregate or general statements instead of specific fictional examples
+
+### Content Sections That Need Special Attention:
+- Case Studies → Use real Pearl Talent client stories only
+- Testimonials → Use actual client feedback only  
+- Success Metrics → Use verified data only
+- Client Examples → Use approved client references only
+
+### When Missing Real Content:
+- Use "[To be added: real client case study]"
+- Focus on service descriptions and benefits
+- Use industry-standard practices and capabilities
+- Reference Pearl Talent's actual value propositions from KB
+
+### Knowledge Base Priority Order:
+1. `Knowledge Base/05-proof-points/` (client stories, metrics)
+2. `Knowledge Base/00-brand-foundation/` (positioning, messaging)
+3. `Knowledge Base/07-talent/` (real talent examples)
+4. `Knowledge Base/03-competitors/` (factual comparisons)
+
+### Content Review Checklist:
+- [ ] All client names are real or placeholders
+- [ ] All metrics come from verified sources
+- [ ] All testimonials are authentic
+- [ ] All case studies are Pearl Talent clients
+- [ ] All claims can be substantiated
+
+## ALWAYS ASK: "Is this information verified and from Pearl Talent's knowledge base?" 
