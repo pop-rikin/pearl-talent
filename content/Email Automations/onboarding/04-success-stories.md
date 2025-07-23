@@ -4,64 +4,43 @@
 
 ---
 
-Hey [First Name],
+Hey [First Name] -
 
-Numbers don't lie. Let me share some real results from companies that took the leap with Pearl Talent—many of whom I've worked with personally.
+Wanted to share some real results from companies that work with us.
 
-**🚀 Ambience Healthcare - AI Healthcare Platform**
-- **Funding:** $106M from A16Z, OpenAI, Kleiner Perkins
-- **Challenge:** Founder needed high-caliber executive support while scaling rapidly
-- **Result:** Pearl matched them with an EA who exceeded expectations and took significantly more work off the founder's plate than originally thought possible
-- **Impact:** Founder now recommends Pearl to other portfolio companies
+**AposHealth - Non-invasive Orthopedic Healthcare Treatment**
+- **Funding:** $58.3M
+- **Challenge:** Needed flexible support to scale operations beyond New York.
+- **Result:** Pearl placed 4 patient scheduling and support specialists who excelled despite shifting priorities, ensuring high treatment adherence and operational efficiency.
+- **Impact:** $156k annual savings + 4 successful hires placed in 13 days
 
-**🧬 Kiwi Biosciences - YC-Backed Biotech**
-- **Challenge:** Fast-scaling biotech needed intelligent, professional support with growth mindset
-- **Result:** Found a candidate who embodied their culture and values from day one
-- **Impact:** Proactive initiative-taking and strong cultural fit; founder now refers other YC companies
-
-**💼 Julian Capital - Investment Firm**
+**Julian Capital - Investment Firm**
 - **Challenge:** Needed proactive operations support
-- **Result:** "*Over the last few months, they've helped the team with tons of work projects and taking work off our plate. She's proactive and really cares. Better than most people I've ever hired.*" - Julian Shapiro, Founder
+- **Result:** Pearl helped the team take work off their plate, with the hire being being better than most people they've ever hired.
 
-**📊 By the Numbers:**
-- **$62K annual overhead savings** (Tribe AI - 13 days to hire)
-- **92% reduction in onboarding time** (Business of Software)
-- **30% increase in company efficiency** (Price Writers - 14 days to hire)
-- **20+ hours saved** in sourcing and interviewing (multiple clients)
-
-**💡 Savage AI - Content Agency**
+**Savage AI - Training and Consulting Services**
 - **Challenge:** Needed the perfect digital marketer quickly
-- **Result:** One-round hiring process with perfect match
+- **Result:** Pearl found them the perfect match in 14 days, closing the search in a one-round process.
 - **Impact:** $35K annual savings + 16 hours saved in hiring process
-
-**🏥 ABA Therapy Organization**
-- **Challenge:** Transform workflows and improve operational efficiency
-- **Result:** 21 days to hire, $32K annual savings
-- **Impact:** 20+ hours saved per month in workflow optimization
 
 **What's the common thread?**
 
 Every successful placement shares these characteristics:
-✅ **Quality-first approach** - we prioritize fit over speed  
-✅ **Comprehensive support** - from vetting to ongoing success  
-✅ **Long-term partnership** - we're invested in your success  
-✅ **Measurable results** - real cost savings and efficiency gains  
+**Quality-first approach** - we prioritize fit over speed  
+**Comprehensive support** - from vetting to ongoing success  
+**Long-term partnership** - we're invested in your success  
+**Measurable results** - real cost savings and efficiency gains  
 
 **But here's what really matters:**
+When you can access world-class talent at 70% less cost, you also reinvest savings into product development, scale faster, keep quality high, and focus on strategy.
 
-These aren't just cost savings—they're growth accelerators. When you can access world-class talent at 70% less cost, you can:
-- Reinvest savings into product development
-- Scale operations faster than competitors
-- Maintain higher quality standards
-- Focus on strategic initiatives while we handle talent operations
-
-Tomorrow, I'll show you exactly how to get started and meet your perfect candidates.
+Tomorrow, I'll show you exactly how to get started and meet your next great hire.
 
 Best,
-Isaac  
-CEO & Co-Founder, Pearl Talent
+Isaac
+Co-Founder, Pearl Talent
 
-P.S. Want to see the full case study for any of these companies? Just reply and I'll send you the detailed breakdown.
+P.S. Want the full case study for any of these? Just reply—I’ll send details.
 
 ---
 
