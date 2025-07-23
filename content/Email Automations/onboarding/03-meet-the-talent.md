@@ -12,9 +12,9 @@ I hear this a lot, so here’s a quick look at a few of the specialists we work 
 
 **Meet some of our talent specialists:**
 - **Jennifer D. (Argentina):** 7 years in telemedicine care coordination. AdvancedMD expert. Now helping a US healthcare startup scale patient ops.
-- **Allan C. (Philippines):** 13 years in insurance billing. Medicare/Medicaid specialist with deep compliance knowledge. Currently streamlining ops for a US medical practice.
-- **Simon B. (Argentina):** 5 years in B2B SaaS sales. HubSpot pro with experience in automations. Recently placed with a fast-growing tech company.
-- **Abril H. (Argentina):** 6 years as an EA in legal admin. Ex–Law Offices of Tina Sharma. Expert in legal compliance and executive support.
+- **Lance C. (Philippines):** 3 years in project and operations management. Ex–Shopee. Specializes in project management, data analytics, and process optimization for business operations.
+- **Joan M. (Philippines):** 6+ years in account management and SaaS client support. CRM and cloud tools expert. Recently managed client success and process improvement for SaaS and managed service providers.
+- **Menna A. (Mexico):** 5 years as an executive assistant. Growth management and international business experience. Expert in cross-cultural communication and executive support.
 
 **What sets them apart?**
 - University-educated from top schools
