@@ -23,7 +23,7 @@ Whether you're solo or running a 1,000-person org, you get US-level hires at 70%
 - **Proven quality:** Only 2.7% of candidates make it. We pull from top universities and exclusive networks in LatAm and the Philippines.
 - **Long-term focus:** 90%+ retention. 90-day guarantee.
 
-Next few days, I'll share how we help companies like Ambience Healthcare ($106M raised from A16Z), Kiwi Biosciences (YC-backed), and 200+ others scale with world-class talent.
+Next few days, I'll share how we help companies like Hone Health ($39M raised by Tribe Capital, PIF & Republic Capital), Kiwi Biosciences (YC-backed), and 200+ others scale with world-class talent.
 
 Ready to rethink how you build your team?
 
