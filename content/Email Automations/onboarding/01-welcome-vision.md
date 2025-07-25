@@ -4,36 +4,34 @@
 
 ---
 
-Hey [First Name],
+[First Name] -
 
-Welcome to Pearl Talent! 🎉
+Welcome to Pearl Talent!
 
-I'm Isaac Kassab, CEO and co-founder of Pearl Talent, and I'm thrilled you've joined our community of forward-thinking leaders who believe in the power of global talent to transform businesses.
+I'm Isaac Kassab, co-founder. Pumped you're here—means you care about building with global talent ready to scale with you.
 
-**Here's what drives us every day:**
+**Why Pearl?**
 
-As an immigrant myself—I grew up in Venezuela before moving to the US—I've seen firsthand how talent and opportunity don't always align geographically. That's why my co-founder Monty and I built Pearl with a simple belief: although opportunity isn't created equal in the world, sharp, ambitious talent is. 
+I grew up in Venezuela, moved to the US, and saw how much talent gets overlooked overseas. Monty (my co-founder) and I started Pearl to change that. We connect ambitious people worldwide with companies that want to grow—fast, and for the long haul.
 
-We've made it our mission to connect exceptional professionals from around the globe with companies like yours—creating life-changing opportunities for talent while helping you scale sustainably.
+**Our vision:** Make global-first teams the norm.
 
-**Our vision?** Make global-first workforces the norm for companies everywhere.
+Whether you're solo or running a 1,000-person org, you get US-level hires at 70% less. No drop in quality.
 
-Whether you're a solo entrepreneur or leading a 1,000-person organization, we're here to help you access top 1% talent from around the world for 70% less than US-based hires—without compromising on quality.
+**What sets us apart:**
+- **Premium partnership:** We're your growth partner, not just another staffing agency. White-glove, managed service—sourcing, onboarding, and ongoing support.
+- **Proven quality:** Only 2.7% of candidates make it. We pull from top universities and exclusive networks in LatAm and the Philippines.
+- **Long-term focus:** 90%+ retention. 90-day guarantee.
 
-**What makes us different:**
-- **Premium Partnership:** We're not just another staffing agency. We're your strategic growth partner, providing white-glove managed services that handle everything from sourcing to ongoing success support.
-- **Proven Quality:** Only 2.7% of candidates make it through our rigorous vetting process. We source talent from exclusive networks through top universities and companies overseas.
-- **Long-term Focus:** We believe in building careers, not just filling positions. That's why we maintain a 90%+ retention rate and offer a 90-day guarantee.
+Next few days, I'll share how we help companies like Ranger ($8.9M raised by General Catalyst & XYZ), Hone Health ($39M raised by Tribe Capital, PIF & Republic Capital), and 200+ others scale with world-class talent.
 
-Over the next few days, I'll share exactly how we help companies like Ambience Healthcare ($106M raised from A16Z), Kiwi Biosciences (YC-backed), and 200+ other successful companies scale their teams with world-class talent.
-
-Ready to transform how you think about building your team?
+Ready to rethink how you build your team?
 
 Best,
-Isaac  
+Isaac
 CEO & Co-Founder, Pearl Talent
 
-P.S. Have a question about global talent? Just reply to this email—I read every response personally.
+P.S. Got a question about global talent? Just reply—I read every response personally.
 
 ---
 

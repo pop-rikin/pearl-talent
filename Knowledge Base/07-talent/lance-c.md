@@ -1,19 +1,19 @@
-# Eduard D.
+# Lance C.
 
 ## Profile Overview
 - **Location:** The Philippines (Asia)
-- **Role:** Project Manager
-- **Experience:** 7 years
-- **Previous Company:** Fitmedia
+- **Role:** Operations Associate
+- **Experience:** 3 years
+- **Previous Company:** Shopee
 - **Specialization:** Project management and operations
 - **Status:** Available for placement
 
 ## Core Skills
 - Project management
 - Operations management
-- Executive leadership (COO experience)
+- Data analytics
 - Strategic planning
-- Team coordination
+- Marketing strategy
 - Business operations
 - Process optimization
-- Startup operations experience
+- Stakeholder management

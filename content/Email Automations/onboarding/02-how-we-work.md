@@ -4,54 +4,41 @@
 
 ---
 
-Hey [First Name],
+Hey [First Name] -
 
-Yesterday I shared our vision. Today, let me pull back the curtain on exactly how my team and I make it happen.
+Yesterday I shared our vision. Today, let’s get right to how my team delivers top global talent, fast.
 
 **Our proven 4-step process:**
 
-**1. Strategic Sourcing**
-We don't rely on generic platforms like Upwork or Fiverr. Instead, we tap into exclusive micronetworks through:
-- Top universities in the Philippines, Argentina, South Africa, Colombia
-- Rising startups and established companies overseas
-- Professional networks where the best talent often already works
+**1. Strategic Sourcing**  
+We skip the usual job boards. Instead, we tap exclusive networks: top universities, rising startups, and proven pros in the Philippines, Argentina, South Africa, Colombia, and more.
 
-**2. Rigorous Vetting**
-This is where we separate the exceptional from the average:
-- Multi-stage assessment including live simulations
-- Behavioral and skills evaluations for cultural fit
-- Problem-solving and communication tests
-- Only 2.7% of candidates make it through
+**2. Rigorous Vetting**  
+We run multi-stage assessments including live simulations, skills and culture-fit evaluations, and real-world problem-solving tests. Only the best make it through.
 
-**3. Seamless Integration**
-We handle the heavy lifting so you can focus on growth:
-- Global payroll and compliance management
-- Cultural integration and communication coaching
-- Executive coaching for smooth onboarding
-- Pearl Coaching & Upskilling bootcamps
+**3. Seamless Integration**  
+We handle payroll, compliance, onboarding, and coaching—so you can focus on growth, not admin.
 
-**4. Ongoing Success Support**
-Our partnership doesn't end at placement:
-- Weekly check-ins and performance monitoring
-- Continuous training and development programs
-- Free replacement within 90 days if needed
-- Month-to-month flexibility with no long-term contracts
+**4. Ongoing Support**  
+Our partnership doesn't end at placement. We have weekly check-ins, upskilling, and a 90-day free replacement guarantee. No long-term contracts, just results.
 
-**The result?** Companies typically see:
-- 70% cost savings compared to US-based hires
-- 13-21 day hiring timelines (vs. months with traditional recruiting)
-- 20+ hours saved in sourcing and interviewing
-- 90%+ retention rates for long-term success
+**What you get:**  
+Our clients typically experience:
+- 70% cost savings vs. US hires  
+- 13-21 day hiring timelines (vs. months with traditional 
+recruiting)
+- 90%+ retention rates
+- A return for additional hires after 3 months
 
-This isn't just outsourcing—it's strategic talent partnership. We're building your team for the long haul, not just filling immediate gaps.
+This isn't just outsourcing—it's strategic talent partnership. We're building your team for the long haul.
 
-Tomorrow, I'll introduce you to some of the incredible professionals in our network. You'll see why companies choose Pearl talent over local hires, even when budget isn't the primary concern.
+Tomorrow, I’ll introduce you to some of the sharpest people in our network. You’ll see why companies choose Pearl, even when budget isn’t the main concern.
 
-Best,
+Best,  
 Isaac  
-CEO & Co-Founder, Pearl Talent
+Co-Founder, Pearl Talent
 
-P.S. Curious about which roles work best with global talent? Reply and let me know your biggest staffing challenge—I'll share specific insights for your situation.
+P.S. If you’re curious about how this could work for your specific team, reply and let me know! Happy to share insights for your situation.
 
 ---
 
